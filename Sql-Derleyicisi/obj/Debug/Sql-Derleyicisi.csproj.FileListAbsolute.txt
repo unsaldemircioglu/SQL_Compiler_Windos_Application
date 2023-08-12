@@ -1,0 +1,11 @@
+C:\Users\nsal2\source\repos\Sql-Derleyicisi\Sql-Derleyicisi\bin\Debug\Sql-Derleyicisi.exe.config
+C:\Users\nsal2\source\repos\Sql-Derleyicisi\Sql-Derleyicisi\bin\Debug\Sql-Derleyicisi.exe
+C:\Users\nsal2\source\repos\Sql-Derleyicisi\Sql-Derleyicisi\bin\Debug\Sql-Derleyicisi.pdb
+C:\Users\nsal2\source\repos\Sql-Derleyicisi\Sql-Derleyicisi\obj\Debug\Sql-Derleyicisi.csproj.AssemblyReference.cache
+C:\Users\nsal2\source\repos\Sql-Derleyicisi\Sql-Derleyicisi\obj\Debug\Sql-Derleyicisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\nsal2\source\repos\Sql-Derleyicisi\Sql-Derleyicisi\obj\Debug\Sql_Derleyicisi.Form1.resources
+C:\Users\nsal2\source\repos\Sql-Derleyicisi\Sql-Derleyicisi\obj\Debug\Sql_Derleyicisi.Properties.Resources.resources
+C:\Users\nsal2\source\repos\Sql-Derleyicisi\Sql-Derleyicisi\obj\Debug\Sql-Derleyicisi.csproj.GenerateResource.cache
+C:\Users\nsal2\source\repos\Sql-Derleyicisi\Sql-Derleyicisi\obj\Debug\Sql-Derleyicisi.csproj.CoreCompileInputs.cache
+C:\Users\nsal2\source\repos\Sql-Derleyicisi\Sql-Derleyicisi\obj\Debug\Sql-Derleyicisi.exe
+C:\Users\nsal2\source\repos\Sql-Derleyicisi\Sql-Derleyicisi\obj\Debug\Sql-Derleyicisi.pdb
